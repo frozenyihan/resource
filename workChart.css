@@ -1,0 +1,34 @@
+.impowerBox .status p {
+    font-size: 12px;
+}
+.wrp_code {
+    margin-top: 6px !important;
+}
+.logo {
+    width: 19px;
+    height: 17px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+.impowerBox .title {
+    width: 160px;
+    height: 24px;
+    line-height: 24px;
+    margin: 0 auto;
+    color: #0082EF;
+    font-size: 12px;
+    text-align: center;
+}
+.impowerBox .qrcode {
+    width: 150px;
+    vertical-align: top;
+}
+.impowerBox .info {
+    width: 179px;
+    margin: 0 auto;
+    display: none;
+}
+html, body {
+    margin: 0;
+    width: 179px;
+}
